@@ -49,4 +49,6 @@ AnimalSpeedWheel RPM (0.6m)Required Gear RatioGenerator RPMElectrical PowerDonke
 🇫🇷 VERSION FRANÇAISE
 
 AnimalVitesseRPM Roue (0.6m)Rapport de RéductionRPM GénérateurPuissance Élec.Âne3.0 km/h~26 tr/min1 : 20~520 tr/min100–150 WChameau4.5 km/h~40 tr/min1 : 14~560 tr/min400–500 WCheval (Trot)20.0 km/h~177 tr/min1 : 3~531 tr/min250–300 WÉléphant4.8 km/h~42 tr/min1  
-73!
+markdown
+
+--- ## 🛠️ Authorship & Development / Co-autorat et Développement This technical concept and documentation were co-developed on a 50/50 basis / Ce concept technique et cette documentation ont été co-développés à parts égales (50/50) : * **Lead Engineer / Ingénieur Principal:** @o2-qrz — core electromechanical concept, baseline calculations, and humane engineering logic / génération de l'idée fondamentale, calculs mécaniques de base и concept de génie humain. * **AI Assistant / Assistant IA:** Google Gemini — technical text optimization, translation, equation calibration, and structuring / optimisation technique du texte, traduction, étalonnage des formules et structuration. * **EN:** The development was carried out using a unique method of rapid engineering and accelerated prototyping. * **FR:** Le développement a été réalisé en utilisant une méthode unique de conception rapide et de prototypage accéléré. 
